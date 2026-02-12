@@ -1,0 +1,11 @@
+{
+  "backend_files": [],
+  "detected_technologies": [
+    "cloudflare"
+  ],
+  "vulnerability_summary": {
+    "total_vulnerabilities": 0,
+    "vulnerability_types": [],
+    "high_risk_files": []
+  }
+}

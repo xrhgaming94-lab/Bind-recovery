@@ -1,0 +1,54 @@
+{
+  "title": "Account recover| change bind mail",
+  "description": "",
+  "keywords": [],
+  "language": "en",
+  "viewport": "width=device-width, initial-scale=1",
+  "forms": 0,
+  "links": 9,
+  "images": 0,
+  "scripts": 1,
+  "stylesheets": 1,
+  "meta_tags": {
+    "viewport": "width=device-width, initial-scale=1"
+  },
+  "api_endpoints": [
+    "https://ff-recovery-pro.onrender.com/api/send_otp",
+    "https://ff-recovery-pro.onrender.com/api/verify_otp",
+    "https://ff-recovery-pro.onrender.com/api/check_status",
+    "https://ff-recovery-pro.onrender.com/api/check_links",
+    "https://ff-recovery-pro.onrender.com/api/cancel_email"
+  ],
+  "backend_files": [],
+  "backend_technologies": [
+    "cloudflare"
+  ],
+  "response_headers": {
+    "Date": "Sat, 10 Jan 2026 06:44:46 GMT",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Content-Encoding": "gzip",
+    "rndr-id": "1c85aa31-ad63-4612",
+    "Vary": "Accept-Encoding",
+    "x-render-origin-server": "Werkzeug/3.1.4 Python/3.13.4",
+    "cf-cache-status": "DYNAMIC",
+    "Server": "cloudflare",
+    "CF-RAY": "9bba35307b4e94d7-TXL",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "backend_files_found": [],
+  "scrap_id": "a64a746954",
+  "url": "https://ff-recovery-pro.onrender.com/",
+  "timestamp": "20260110_084446",
+  "domain": "ff-recovery-pro_onrender_com",
+  "total_assets_found": 9,
+  "assets_downloaded": 9,
+  "backend_files_downloaded": 0,
+  "assets_failed": 0,
+  "asset_types": {
+    ".css": 1
+  },
+  "total_size": 1045641,
+  "vulnerabilities_found": []
+}
